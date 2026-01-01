@@ -1,0 +1,10 @@
+numpy<2
+librosa
+soundfile
+audioread
+tensorflow
+openl3
+scikit-learn
+joblib
+tqdm
+huggingface_hub

@@ -1,0 +1,9 @@
+.venv
+/data
+/models
+/sorted
+/unsorted
+.python-version
+# OS junk
+.DS_Store
+Thumbs.db
